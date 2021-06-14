@@ -1,6 +1,6 @@
-# python-template-repository
+# Recommend
 
-本リポジトリはPython 環境のテンプレートリポジトリです。
+本リポジトリはRecommend システムのポジトリです。
 
 
 ## リポジトリ構成
